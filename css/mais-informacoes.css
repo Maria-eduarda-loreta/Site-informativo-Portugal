@@ -1,0 +1,15 @@
+.informacoes h2 {
+    height: 2.1875rem;
+    border-radius: 50%;
+    text-align: center;
+    margin-top: 11.375rem;
+    margin-bottom: 7.125rem;
+}
+
+.botoes-page-extra {
+    display: flex;
+    gap: 4.125rem;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 8.625rem;
+}

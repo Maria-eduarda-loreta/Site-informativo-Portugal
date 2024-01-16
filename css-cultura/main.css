@@ -1,0 +1,36 @@
+section {
+    display: flex;
+}
+
+.second {
+    margin-top: 10rem;
+}
+
+.third {
+    margin-top: 10rem;
+}
+
+h1 {
+    margin-top: 12.5rem;
+    text-align: center;
+    margin-bottom: 9.375rem;
+}
+
+.esquerdaC {
+    width: 60%;
+    margin-left: 3.9375rem;
+}
+
+.direitaC {
+    width: 50%;
+    margin-right: 8.875rem;
+}
+
+.border {
+    margin-top: 4.5625rem;
+    border-bottom: solid #FFC01D;
+    border-width: 0.25rem;
+    width: 77.0635rem;
+    margin-left: 4.0625rem;
+    margin-right: 8.875rem;
+}

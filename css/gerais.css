@@ -1,0 +1,165 @@
+/* #gerais {
+    padding-top: 1000px;
+    flex-wrap: wrap;
+}
+
+#gerais h2 {
+    text-align: center;
+    padding-bottom: 70px;
+}
+
+.box-gerais {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: start;
+    gap: 50px;
+    padding-bottom: 70px;
+    margin-left: 210px;
+}
+
+.box-itens {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 37px;
+    max-width: 35%;
+    margin-right: 101px;
+}
+
+.descricao p {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: start;
+    gap:50px;
+    padding-bottom: 70px;
+    width: 425px;
+} */
+
+/* #gerais {
+    flex-wrap: wrap;
+    margin-top: 30%;
+}
+
+#gerais h2 {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+/* .box-gerais {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: start;
+    gap: 50px;
+    padding-bottom: 70px;
+} 
+
+.description-geral {
+    display: flex;
+    justify-content: start;
+    flex-wrap: wrap;
+    gap: 50px;
+    padding-bottom: 70px;
+    width: 100%;
+}
+
+.box-itens {
+    display: flex;
+    justify-content: start;
+    padding-bottom: 70px;
+    width: 100%;
+}
+
+.skill {
+    display: flex;
+}
+
+.skill img {
+    height: 184.81px;
+    width: 198.92px;
+    border-radius: 15px;
+    cursor: pointer;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.skill:hover {
+    background-color: white;
+    transform: scale(1.05);
+    border-radius: 15px;
+}
+
+.descricao {
+    color: white;
+    font-size: 20px;
+    max-width: 40%;
+}
+
+.descricao p {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: start;
+    gap: 50px;
+    padding-bottom: 70px;
+} */
+
+.box-gerais {
+    padding-top: 9.275rem;
+    /* width: 100%; */
+}
+
+.box-gerais h2 {
+    text-align: center;
+    padding-bottom: 3.125rem;
+    font-weight: 700;
+    font-size: 3.5rem;
+}
+
+.descriptionG {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 3.5625rem;
+}
+
+.descriptionG {
+    /* padding-left: 180px; */
+    padding-top: 1.25rem;
+}
+
+.skills,
+.description-skills {
+    display: flex;
+}
+
+.skills {
+    margin-left: 13.125rem;
+    gap: 2.3125rem;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    max-width: 35%;
+}
+
+.skill img{
+    height: 12.5rem;
+    width: 12.5rem;
+    cursor: pointer;
+    background-repeat: no-repeat;
+    background-position: center;
+    transition: ease 0.3s;
+    border-radius: 0.9375rem;
+}
+
+.skill:hover {
+    background-color: white;
+    transform: scale(1.05);
+    border-radius: 1rem;
+}
+
+.description-skills {
+    margin-left: 6.3125rem;
+    max-width: 20%;
+    font-size: 1.125rem;
+    font-weight: 400;
+    color: #fff;
+    margin-top: 4.375rem;
+}

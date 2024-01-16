@@ -1,0 +1,41 @@
+<h2>Pontos Turísticos</h2>
+
+            <div class="container-pontos">
+                <button class="seta-esquerda control" aria-label="previuos image"><img src="./assets/seta-esquerda.svg" alt=""></button>
+                <button class="seta-direita control" aria-label="next image"><img src="./assets/seta-direita.svg" alt=""></button>
+
+                <div class="pontos-wrapper">  
+                    <div class="box-itens-pontos"> 
+
+                        <figure class="item current-item">
+                            <img src="./assets/torre de belem.svg" alt="torre de belem">
+                            <figcaption>torre de belem</figcaption>
+                        </figure>
+
+                        <figure class="item">
+                            <img src="./assets/palacio da bolsa.svg" alt="palacio da bolsa">
+                            <figcaption>palacio da bolsa</figcaption>
+                        </figure>
+
+                        <figure class="item">
+                            <img src="./assets/mosteiro da batalha.svg" alt="Mosteiro da Batalha">
+                            <figcaption>Mosteiro da Batalha</figcaption>
+                        </figure>
+
+                        <figure class="item">
+                            <img src="./assets/berlenga grande.svg" alt="Berlenga Grande">
+                            <figcaption>Berlenga Grande</figcaption>
+                        </figure>
+
+                        <figure class="item">
+                            <img src="./assets/capela-ossos.svg" alt="Capela dos Ossos">
+                            <figcaption>Capela dos Ossos</figcaption>
+                        </figure>
+
+                        <figure class="item">
+                            <img src="./assets/cassino.svg" alt="Cassino">
+                            <figcaption>Cassino</figcaption>
+                        </figure>
+                    </div>
+                </div>
+            </div>
